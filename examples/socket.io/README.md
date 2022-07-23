@@ -1,6 +1,6 @@
 # Express + Socket.io
 
-Socket.io is the simples way to work with WebSockets in Node.js
+Socket.io is the simplest way to work with WebSockets in Node.js
 
 This example shows how to setup socket.io inside a Express server and together with a Remix app and how to connect from the browser.
 
